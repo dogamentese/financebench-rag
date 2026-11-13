@@ -1,0 +1,17 @@
+# dataset, downloaded by notebooks/01_data_exploration.ipynb (~160 MB)
+# data/split.json IS committed, only the download folder is ignored
+data/financebench/
+
+# python
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# temp render from the sanity-check cell
+reports/figures/_sanity_page.png
+
+# editors / OS
+.DS_Store
+.vscode/
+.idea/
