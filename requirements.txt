@@ -2,3 +2,5 @@ pymupdf
 pandas
 matplotlib
 jupyterlab
+bm25s==0.3.16
+pytest

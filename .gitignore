@@ -15,3 +15,7 @@ reports/figures/_sanity_page.png
 .DS_Store
 .vscode/
 .idea/
+
+data/processed/
+*.egg-info/
+.pytest_cache/
