@@ -44,3 +44,15 @@ class BM25Search:
             if page not in pages:
                 pages.append(page)
         return pages[:k]
+
+
+def rrf_fuse(rankings: list[list[tuple[str, int]]], k: int = 60) -> list[tuple[str, int]]:
+    """Merge ranked page lists with reciprocal rank fusion (Cormack et al. 2009).
+
+    A page's fused score is the sum of 1 / (k + rank) over the lists it appears in.
+    """
+    scores = {}
+    for ranking in rankings:
+        for rank, page in enumerate(ranking, start=1):
+            scores[page] = scores.get(page, 0.0) + 1 / (k + rank)
+    return sorted(scores, key=scores.get, reverse=True)
