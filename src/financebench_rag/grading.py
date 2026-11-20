@@ -14,6 +14,11 @@ def final_answer(response: str) -> str | None:
     return None
 
 
+def is_refusal(final: str | None) -> bool:
+    """True if the final answer is exactly "not found"."""
+    return final is not None and final.strip(" .").lower() == "not found"
+
+
 def numbers(text: str) -> list[float]:
     """All numbers in a text, after removing commas and dollar signs."""
     return [float(x) for x in re.findall(r"-?\d+(?:\.\d+)?", text.replace(",", "").replace("$", ""))]

@@ -71,6 +71,7 @@ class Reader:
         new_tokens = out[0][inputs["input_ids"].shape[-1]:]
         response = self.processor.decode(new_tokens, skip_special_tokens=True).strip()
         return {
+            "input_tokens": inputs["input_ids"].shape[-1],
             "response": response,
             "final": final_answer(response),
             "tokens": len(new_tokens),

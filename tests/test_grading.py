@@ -1,4 +1,4 @@
-from financebench_rag.grading import final_answer, numeric_match
+from financebench_rag.grading import final_answer, is_refusal, numeric_match
 
 
 def test_final_answer_is_read_from_the_last_line():
@@ -20,3 +20,10 @@ def test_close_numbers_match():
 def test_far_numbers_and_refusals_do_not_match():
     assert not numeric_match("3.10", "$4.60")
     assert not numeric_match("not found", "$4.60")
+
+
+def test_only_an_exact_not_found_is_a_refusal():
+    assert is_refusal("not found")
+    assert is_refusal("Not found.")
+    assert not is_refusal("FY2022: none; FY2021: not found in document")
+    assert not is_refusal(None)
