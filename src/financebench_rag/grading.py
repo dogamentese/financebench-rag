@@ -27,3 +27,15 @@ def numbers(text: str) -> list[float]:
 def numeric_match(prediction: str, reference: str) -> bool:
     """True if a number in the prediction is within 3% of a number in the reference (Kobeissi and Langlais, 2026)."""
     return any(np.isclose(p, r, atol=0.03, rtol=0.03) for p in numbers(prediction) for r in numbers(reference))
+
+
+def code_label(answer: dict, question: dict) -> str | None:
+    """The label code can give an answer, or None if a grader has to read it."""
+    if answer["final"] is None:
+        return "cut off"
+    if is_refusal(answer["final"]):
+        return "refusal"
+    if question["question_type"] == "metrics-generated" and numeric_match(answer["final"], question["answer"]):
+        return "correct"
+    return None
+

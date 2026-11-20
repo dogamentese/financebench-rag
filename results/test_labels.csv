@@ -1,0 +1,601 @@
+setting,financebench_id,label,graded_by
+gold_text,financebench_id_00005,correct,hand
+gold_text,financebench_id_00080,correct,hand
+gold_text,financebench_id_00206,refusal,code
+gold_text,financebench_id_00215,correct,hand
+gold_text,financebench_id_00283,wrong,hand
+gold_text,financebench_id_00288,wrong,hand
+gold_text,financebench_id_00299,correct,hand
+gold_text,financebench_id_00302,correct,hand
+gold_text,financebench_id_00382,correct,hand
+gold_text,financebench_id_00394,correct,hand
+gold_text,financebench_id_00407,correct,hand
+gold_text,financebench_id_00460,wrong,hand
+gold_text,financebench_id_00464,correct,hand
+gold_text,financebench_id_00494,wrong,hand
+gold_text,financebench_id_00499,correct,hand
+gold_text,financebench_id_00517,correct,hand
+gold_text,financebench_id_00521,refusal,code
+gold_text,financebench_id_00540,refusal,code
+gold_text,financebench_id_00552,correct,hand
+gold_text,financebench_id_00563,correct,hand
+gold_text,financebench_id_00585,correct,hand
+gold_text,financebench_id_00601,correct,hand
+gold_text,financebench_id_00605,refusal,code
+gold_text,financebench_id_00606,refusal,code
+gold_text,financebench_id_00651,refusal,code
+gold_text,financebench_id_00678,correct,hand
+gold_text,financebench_id_00685,correct,hand
+gold_text,financebench_id_00702,cut off,code
+gold_text,financebench_id_00705,correct,hand
+gold_text,financebench_id_00711,correct,hand
+gold_text,financebench_id_00720,cut off,code
+gold_text,financebench_id_00723,cut off,code
+gold_text,financebench_id_00724,correct,hand
+gold_text,financebench_id_00735,refusal,code
+gold_text,financebench_id_00746,refusal,code
+gold_text,financebench_id_00757,correct,hand
+gold_text,financebench_id_00790,wrong,hand
+gold_text,financebench_id_00799,correct,hand
+gold_text,financebench_id_00807,correct,hand
+gold_text,financebench_id_00822,correct,hand
+gold_text,financebench_id_00839,refusal,code
+gold_text,financebench_id_00859,correct,hand
+gold_text,financebench_id_00882,correct,hand
+gold_text,financebench_id_00917,correct,hand
+gold_text,financebench_id_00941,correct,hand
+gold_text,financebench_id_00956,correct,hand
+gold_text,financebench_id_00995,correct,hand
+gold_text,financebench_id_01009,correct,hand
+gold_text,financebench_id_01028,correct,hand
+gold_text,financebench_id_01077,correct,hand
+gold_text,financebench_id_01091,correct,hand
+gold_text,financebench_id_01107,correct,hand
+gold_text,financebench_id_01148,correct,hand
+gold_text,financebench_id_01163,cut off,code
+gold_text,financebench_id_01198,correct,hand
+gold_text,financebench_id_01244,correct,hand
+gold_text,financebench_id_01254,correct,hand
+gold_text,financebench_id_01275,correct,hand
+gold_text,financebench_id_01279,correct,hand
+gold_text,financebench_id_01290,refusal,code
+gold_text,financebench_id_01319,correct,hand
+gold_text,financebench_id_01328,correct,hand
+gold_text,financebench_id_01346,correct,hand
+gold_text,financebench_id_01351,correct,hand
+gold_text,financebench_id_01476,correct,hand
+gold_text,financebench_id_01484,wrong,hand
+gold_text,financebench_id_01487,correct,hand
+gold_text,financebench_id_01488,correct,hand
+gold_text,financebench_id_01490,correct,hand
+gold_text,financebench_id_01491,correct,hand
+gold_text,financebench_id_01902,correct,hand
+gold_text,financebench_id_01912,correct,hand
+gold_text,financebench_id_01928,correct,hand
+gold_text,financebench_id_01930,cut off,code
+gold_text,financebench_id_01936,correct,hand
+gold_text,financebench_id_01964,correct,hand
+gold_text,financebench_id_02049,correct,hand
+gold_text,financebench_id_02119,refusal,code
+gold_text,financebench_id_02416,correct,hand
+gold_text,financebench_id_02419,correct,hand
+gold_text,financebench_id_02608,cut off,code
+gold_text,financebench_id_03029,correct,code
+gold_text,financebench_id_03031,correct,code
+gold_text,financebench_id_03282,correct,code
+gold_text,financebench_id_03471,correct,code
+gold_text,financebench_id_03473,correct,hand
+gold_text,financebench_id_03531,correct,code
+gold_text,financebench_id_03620,correct,code
+gold_text,financebench_id_03718,correct,code
+gold_text,financebench_id_03838,correct,code
+gold_text,financebench_id_03882,correct,code
+gold_text,financebench_id_04080,correct,code
+gold_text,financebench_id_04103,cut off,code
+gold_text,financebench_id_04171,correct,code
+gold_text,financebench_id_04209,correct,code
+gold_text,financebench_id_04254,correct,code
+gold_text,financebench_id_04302,correct,code
+gold_text,financebench_id_04412,correct,code
+gold_text,financebench_id_04417,correct,code
+gold_text,financebench_id_04458,wrong,hand
+gold_text,financebench_id_04481,correct,code
+gold_text,financebench_id_04660,correct,code
+gold_text,financebench_id_04700,correct,code
+gold_text,financebench_id_04735,correct,code
+gold_text,financebench_id_04784,correct,code
+gold_text,financebench_id_04854,correct,code
+gold_text,financebench_id_05718,correct,code
+gold_text,financebench_id_05915,correct,code
+gold_text,financebench_id_06247,correct,code
+gold_text,financebench_id_06272,correct,code
+gold_text,financebench_id_07507,correct,code
+gold_text,financebench_id_07661,correct,code
+gold_text,financebench_id_07966,correct,code
+gold_text,financebench_id_08135,correct,code
+gold_text,financebench_id_08286,correct,code
+gold_text,financebench_id_09724,correct,code
+gold_text,financebench_id_10130,correct,code
+gold_text,financebench_id_10285,correct,code
+gold_text,financebench_id_10420,wrong,hand
+gold_text,financebench_id_10499,correct,code
+gold_image,financebench_id_00005,correct,hand
+gold_image,financebench_id_00080,correct,hand
+gold_image,financebench_id_00206,refusal,code
+gold_image,financebench_id_00215,correct,hand
+gold_image,financebench_id_00283,wrong,hand
+gold_image,financebench_id_00288,cut off,code
+gold_image,financebench_id_00299,correct,hand
+gold_image,financebench_id_00302,correct,hand
+gold_image,financebench_id_00382,correct,hand
+gold_image,financebench_id_00394,correct,hand
+gold_image,financebench_id_00407,correct,hand
+gold_image,financebench_id_00460,correct,hand
+gold_image,financebench_id_00464,correct,hand
+gold_image,financebench_id_00494,wrong,hand
+gold_image,financebench_id_00499,correct,hand
+gold_image,financebench_id_00517,correct,hand
+gold_image,financebench_id_00521,refusal,code
+gold_image,financebench_id_00540,refusal,code
+gold_image,financebench_id_00552,correct,hand
+gold_image,financebench_id_00563,correct,hand
+gold_image,financebench_id_00585,correct,hand
+gold_image,financebench_id_00601,correct,hand
+gold_image,financebench_id_00605,refusal,code
+gold_image,financebench_id_00606,refusal,code
+gold_image,financebench_id_00651,correct,hand
+gold_image,financebench_id_00678,cut off,code
+gold_image,financebench_id_00685,correct,hand
+gold_image,financebench_id_00702,cut off,code
+gold_image,financebench_id_00705,correct,hand
+gold_image,financebench_id_00711,correct,hand
+gold_image,financebench_id_00720,cut off,code
+gold_image,financebench_id_00723,cut off,code
+gold_image,financebench_id_00724,correct,hand
+gold_image,financebench_id_00735,correct,hand
+gold_image,financebench_id_00746,refusal,code
+gold_image,financebench_id_00757,correct,hand
+gold_image,financebench_id_00790,cut off,code
+gold_image,financebench_id_00799,correct,hand
+gold_image,financebench_id_00807,correct,hand
+gold_image,financebench_id_00822,correct,hand
+gold_image,financebench_id_00839,wrong,hand
+gold_image,financebench_id_00859,correct,hand
+gold_image,financebench_id_00882,correct,hand
+gold_image,financebench_id_00917,correct,hand
+gold_image,financebench_id_00941,correct,hand
+gold_image,financebench_id_00956,correct,hand
+gold_image,financebench_id_00995,correct,hand
+gold_image,financebench_id_01009,correct,hand
+gold_image,financebench_id_01028,correct,hand
+gold_image,financebench_id_01077,correct,hand
+gold_image,financebench_id_01091,correct,hand
+gold_image,financebench_id_01107,correct,hand
+gold_image,financebench_id_01148,correct,hand
+gold_image,financebench_id_01163,correct,hand
+gold_image,financebench_id_01198,correct,hand
+gold_image,financebench_id_01244,correct,hand
+gold_image,financebench_id_01254,correct,hand
+gold_image,financebench_id_01275,cut off,code
+gold_image,financebench_id_01279,correct,hand
+gold_image,financebench_id_01290,correct,hand
+gold_image,financebench_id_01319,correct,hand
+gold_image,financebench_id_01328,correct,hand
+gold_image,financebench_id_01346,correct,hand
+gold_image,financebench_id_01351,correct,hand
+gold_image,financebench_id_01476,correct,hand
+gold_image,financebench_id_01484,correct,hand
+gold_image,financebench_id_01487,correct,hand
+gold_image,financebench_id_01488,correct,hand
+gold_image,financebench_id_01490,correct,hand
+gold_image,financebench_id_01491,correct,hand
+gold_image,financebench_id_01902,refusal,code
+gold_image,financebench_id_01912,correct,hand
+gold_image,financebench_id_01928,correct,hand
+gold_image,financebench_id_01930,cut off,code
+gold_image,financebench_id_01936,cut off,code
+gold_image,financebench_id_01964,correct,hand
+gold_image,financebench_id_02049,correct,hand
+gold_image,financebench_id_02119,refusal,code
+gold_image,financebench_id_02416,correct,hand
+gold_image,financebench_id_02419,correct,hand
+gold_image,financebench_id_02608,correct,code
+gold_image,financebench_id_03029,correct,code
+gold_image,financebench_id_03031,correct,code
+gold_image,financebench_id_03282,correct,code
+gold_image,financebench_id_03471,correct,code
+gold_image,financebench_id_03473,cut off,code
+gold_image,financebench_id_03531,correct,code
+gold_image,financebench_id_03620,correct,code
+gold_image,financebench_id_03718,correct,code
+gold_image,financebench_id_03838,correct,code
+gold_image,financebench_id_03882,correct,code
+gold_image,financebench_id_04080,correct,code
+gold_image,financebench_id_04103,cut off,code
+gold_image,financebench_id_04171,correct,code
+gold_image,financebench_id_04209,correct,code
+gold_image,financebench_id_04254,correct,code
+gold_image,financebench_id_04302,correct,code
+gold_image,financebench_id_04412,correct,code
+gold_image,financebench_id_04417,correct,code
+gold_image,financebench_id_04458,wrong,hand
+gold_image,financebench_id_04481,correct,code
+gold_image,financebench_id_04660,correct,code
+gold_image,financebench_id_04700,correct,code
+gold_image,financebench_id_04735,correct,code
+gold_image,financebench_id_04784,correct,code
+gold_image,financebench_id_04854,correct,code
+gold_image,financebench_id_05718,correct,code
+gold_image,financebench_id_05915,correct,code
+gold_image,financebench_id_06247,correct,code
+gold_image,financebench_id_06272,correct,hand
+gold_image,financebench_id_07507,correct,code
+gold_image,financebench_id_07661,correct,code
+gold_image,financebench_id_07966,correct,code
+gold_image,financebench_id_08135,correct,code
+gold_image,financebench_id_08286,correct,code
+gold_image,financebench_id_09724,wrong,hand
+gold_image,financebench_id_10130,correct,code
+gold_image,financebench_id_10285,correct,code
+gold_image,financebench_id_10420,correct,code
+gold_image,financebench_id_10499,correct,code
+retrieved_text,financebench_id_00005,correct,hand
+retrieved_text,financebench_id_00080,correct,hand
+retrieved_text,financebench_id_00206,refusal,code
+retrieved_text,financebench_id_00215,correct,hand
+retrieved_text,financebench_id_00283,cut off,code
+retrieved_text,financebench_id_00288,correct,hand
+retrieved_text,financebench_id_00299,wrong,hand
+retrieved_text,financebench_id_00302,refusal,code
+retrieved_text,financebench_id_00382,correct,hand
+retrieved_text,financebench_id_00394,correct,hand
+retrieved_text,financebench_id_00407,correct,hand
+retrieved_text,financebench_id_00460,correct,hand
+retrieved_text,financebench_id_00464,refusal,code
+retrieved_text,financebench_id_00494,wrong,hand
+retrieved_text,financebench_id_00499,refusal,code
+retrieved_text,financebench_id_00517,correct,hand
+retrieved_text,financebench_id_00521,refusal,code
+retrieved_text,financebench_id_00540,refusal,code
+retrieved_text,financebench_id_00552,refusal,code
+retrieved_text,financebench_id_00563,correct,hand
+retrieved_text,financebench_id_00585,wrong,hand
+retrieved_text,financebench_id_00601,cut off,code
+retrieved_text,financebench_id_00605,refusal,code
+retrieved_text,financebench_id_00606,refusal,code
+retrieved_text,financebench_id_00651,wrong,hand
+retrieved_text,financebench_id_00678,cut off,code
+retrieved_text,financebench_id_00685,correct,hand
+retrieved_text,financebench_id_00702,cut off,code
+retrieved_text,financebench_id_00705,correct,hand
+retrieved_text,financebench_id_00711,refusal,code
+retrieved_text,financebench_id_00720,cut off,code
+retrieved_text,financebench_id_00723,wrong,hand
+retrieved_text,financebench_id_00724,wrong,hand
+retrieved_text,financebench_id_00735,refusal,code
+retrieved_text,financebench_id_00746,refusal,code
+retrieved_text,financebench_id_00757,refusal,code
+retrieved_text,financebench_id_00790,refusal,code
+retrieved_text,financebench_id_00799,refusal,code
+retrieved_text,financebench_id_00807,refusal,code
+retrieved_text,financebench_id_00822,correct,hand
+retrieved_text,financebench_id_00839,correct,hand
+retrieved_text,financebench_id_00859,correct,hand
+retrieved_text,financebench_id_00882,wrong,hand
+retrieved_text,financebench_id_00917,cut off,code
+retrieved_text,financebench_id_00941,correct,hand
+retrieved_text,financebench_id_00956,correct,hand
+retrieved_text,financebench_id_00995,correct,hand
+retrieved_text,financebench_id_01009,correct,hand
+retrieved_text,financebench_id_01028,wrong,hand
+retrieved_text,financebench_id_01077,correct,hand
+retrieved_text,financebench_id_01091,correct,hand
+retrieved_text,financebench_id_01107,cut off,code
+retrieved_text,financebench_id_01148,correct,hand
+retrieved_text,financebench_id_01163,correct,hand
+retrieved_text,financebench_id_01198,correct,hand
+retrieved_text,financebench_id_01244,correct,hand
+retrieved_text,financebench_id_01254,correct,hand
+retrieved_text,financebench_id_01275,cut off,code
+retrieved_text,financebench_id_01279,correct,hand
+retrieved_text,financebench_id_01290,refusal,code
+retrieved_text,financebench_id_01319,correct,hand
+retrieved_text,financebench_id_01328,correct,hand
+retrieved_text,financebench_id_01346,cut off,code
+retrieved_text,financebench_id_01351,correct,hand
+retrieved_text,financebench_id_01476,correct,hand
+retrieved_text,financebench_id_01484,correct,hand
+retrieved_text,financebench_id_01487,correct,hand
+retrieved_text,financebench_id_01488,correct,hand
+retrieved_text,financebench_id_01490,correct,hand
+retrieved_text,financebench_id_01491,correct,hand
+retrieved_text,financebench_id_01902,wrong,hand
+retrieved_text,financebench_id_01912,wrong,hand
+retrieved_text,financebench_id_01928,correct,hand
+retrieved_text,financebench_id_01930,cut off,code
+retrieved_text,financebench_id_01936,correct,hand
+retrieved_text,financebench_id_01964,refusal,code
+retrieved_text,financebench_id_02049,correct,hand
+retrieved_text,financebench_id_02119,wrong,hand
+retrieved_text,financebench_id_02416,wrong,hand
+retrieved_text,financebench_id_02419,refusal,code
+retrieved_text,financebench_id_02608,correct,code
+retrieved_text,financebench_id_03029,correct,code
+retrieved_text,financebench_id_03031,correct,code
+retrieved_text,financebench_id_03282,correct,code
+retrieved_text,financebench_id_03471,correct,code
+retrieved_text,financebench_id_03473,correct,hand
+retrieved_text,financebench_id_03531,correct,code
+retrieved_text,financebench_id_03620,correct,code
+retrieved_text,financebench_id_03718,refusal,code
+retrieved_text,financebench_id_03838,correct,code
+retrieved_text,financebench_id_03882,refusal,code
+retrieved_text,financebench_id_04080,wrong,hand
+retrieved_text,financebench_id_04103,cut off,code
+retrieved_text,financebench_id_04171,correct,code
+retrieved_text,financebench_id_04209,correct,code
+retrieved_text,financebench_id_04254,correct,code
+retrieved_text,financebench_id_04302,correct,code
+retrieved_text,financebench_id_04412,correct,code
+retrieved_text,financebench_id_04417,correct,code
+retrieved_text,financebench_id_04458,wrong,hand
+retrieved_text,financebench_id_04481,correct,code
+retrieved_text,financebench_id_04660,correct,code
+retrieved_text,financebench_id_04700,correct,code
+retrieved_text,financebench_id_04735,refusal,code
+retrieved_text,financebench_id_04784,correct,code
+retrieved_text,financebench_id_04854,correct,code
+retrieved_text,financebench_id_05718,correct,code
+retrieved_text,financebench_id_05915,refusal,code
+retrieved_text,financebench_id_06247,cut off,code
+retrieved_text,financebench_id_06272,cut off,code
+retrieved_text,financebench_id_07507,correct,code
+retrieved_text,financebench_id_07661,correct,code
+retrieved_text,financebench_id_07966,cut off,code
+retrieved_text,financebench_id_08135,correct,code
+retrieved_text,financebench_id_08286,correct,code
+retrieved_text,financebench_id_09724,correct,code
+retrieved_text,financebench_id_10130,refusal,code
+retrieved_text,financebench_id_10285,correct,code
+retrieved_text,financebench_id_10420,correct,hand
+retrieved_text,financebench_id_10499,refusal,code
+retrieved_image,financebench_id_00005,correct,hand
+retrieved_image,financebench_id_00080,correct,hand
+retrieved_image,financebench_id_00206,refusal,code
+retrieved_image,financebench_id_00215,correct,hand
+retrieved_image,financebench_id_00283,wrong,hand
+retrieved_image,financebench_id_00288,correct,hand
+retrieved_image,financebench_id_00299,wrong,hand
+retrieved_image,financebench_id_00302,refusal,code
+retrieved_image,financebench_id_00382,correct,hand
+retrieved_image,financebench_id_00394,correct,hand
+retrieved_image,financebench_id_00407,correct,hand
+retrieved_image,financebench_id_00460,correct,hand
+retrieved_image,financebench_id_00464,refusal,code
+retrieved_image,financebench_id_00494,wrong,hand
+retrieved_image,financebench_id_00499,refusal,code
+retrieved_image,financebench_id_00517,correct,hand
+retrieved_image,financebench_id_00521,refusal,code
+retrieved_image,financebench_id_00540,refusal,code
+retrieved_image,financebench_id_00552,refusal,code
+retrieved_image,financebench_id_00563,correct,hand
+retrieved_image,financebench_id_00585,wrong,hand
+retrieved_image,financebench_id_00601,wrong,hand
+retrieved_image,financebench_id_00605,cut off,code
+retrieved_image,financebench_id_00606,refusal,code
+retrieved_image,financebench_id_00651,correct,hand
+retrieved_image,financebench_id_00678,wrong,hand
+retrieved_image,financebench_id_00685,correct,hand
+retrieved_image,financebench_id_00702,correct,hand
+retrieved_image,financebench_id_00705,wrong,hand
+retrieved_image,financebench_id_00711,refusal,code
+retrieved_image,financebench_id_00720,refusal,code
+retrieved_image,financebench_id_00723,refusal,code
+retrieved_image,financebench_id_00724,wrong,hand
+retrieved_image,financebench_id_00735,refusal,code
+retrieved_image,financebench_id_00746,refusal,code
+retrieved_image,financebench_id_00757,refusal,code
+retrieved_image,financebench_id_00790,correct,hand
+retrieved_image,financebench_id_00799,refusal,code
+retrieved_image,financebench_id_00807,refusal,code
+retrieved_image,financebench_id_00822,cut off,code
+retrieved_image,financebench_id_00839,correct,hand
+retrieved_image,financebench_id_00859,correct,hand
+retrieved_image,financebench_id_00882,wrong,hand
+retrieved_image,financebench_id_00917,correct,hand
+retrieved_image,financebench_id_00941,correct,hand
+retrieved_image,financebench_id_00956,correct,hand
+retrieved_image,financebench_id_00995,correct,hand
+retrieved_image,financebench_id_01009,correct,hand
+retrieved_image,financebench_id_01028,wrong,hand
+retrieved_image,financebench_id_01077,correct,hand
+retrieved_image,financebench_id_01091,correct,hand
+retrieved_image,financebench_id_01107,correct,hand
+retrieved_image,financebench_id_01148,correct,hand
+retrieved_image,financebench_id_01163,correct,hand
+retrieved_image,financebench_id_01198,wrong,hand
+retrieved_image,financebench_id_01244,correct,hand
+retrieved_image,financebench_id_01254,correct,hand
+retrieved_image,financebench_id_01275,correct,hand
+retrieved_image,financebench_id_01279,correct,hand
+retrieved_image,financebench_id_01290,wrong,hand
+retrieved_image,financebench_id_01319,correct,hand
+retrieved_image,financebench_id_01328,wrong,hand
+retrieved_image,financebench_id_01346,correct,hand
+retrieved_image,financebench_id_01351,correct,hand
+retrieved_image,financebench_id_01476,correct,hand
+retrieved_image,financebench_id_01484,correct,hand
+retrieved_image,financebench_id_01487,correct,hand
+retrieved_image,financebench_id_01488,correct,hand
+retrieved_image,financebench_id_01490,correct,hand
+retrieved_image,financebench_id_01491,correct,hand
+retrieved_image,financebench_id_01902,wrong,hand
+retrieved_image,financebench_id_01912,correct,hand
+retrieved_image,financebench_id_01928,correct,hand
+retrieved_image,financebench_id_01930,cut off,code
+retrieved_image,financebench_id_01936,correct,hand
+retrieved_image,financebench_id_01964,refusal,code
+retrieved_image,financebench_id_02049,correct,hand
+retrieved_image,financebench_id_02119,cut off,code
+retrieved_image,financebench_id_02416,wrong,hand
+retrieved_image,financebench_id_02419,refusal,code
+retrieved_image,financebench_id_02608,correct,code
+retrieved_image,financebench_id_03029,correct,code
+retrieved_image,financebench_id_03031,correct,code
+retrieved_image,financebench_id_03282,correct,code
+retrieved_image,financebench_id_03471,correct,code
+retrieved_image,financebench_id_03473,cut off,code
+retrieved_image,financebench_id_03531,correct,code
+retrieved_image,financebench_id_03620,correct,code
+retrieved_image,financebench_id_03718,refusal,code
+retrieved_image,financebench_id_03838,correct,code
+retrieved_image,financebench_id_03882,refusal,code
+retrieved_image,financebench_id_04080,wrong,hand
+retrieved_image,financebench_id_04103,correct,code
+retrieved_image,financebench_id_04171,correct,code
+retrieved_image,financebench_id_04209,correct,code
+retrieved_image,financebench_id_04254,wrong,hand
+retrieved_image,financebench_id_04302,correct,code
+retrieved_image,financebench_id_04412,correct,code
+retrieved_image,financebench_id_04417,correct,code
+retrieved_image,financebench_id_04458,correct,code
+retrieved_image,financebench_id_04481,correct,code
+retrieved_image,financebench_id_04660,correct,code
+retrieved_image,financebench_id_04700,correct,code
+retrieved_image,financebench_id_04735,refusal,code
+retrieved_image,financebench_id_04784,wrong,hand
+retrieved_image,financebench_id_04854,correct,code
+retrieved_image,financebench_id_05718,correct,code
+retrieved_image,financebench_id_05915,refusal,code
+retrieved_image,financebench_id_06247,cut off,code
+retrieved_image,financebench_id_06272,cut off,code
+retrieved_image,financebench_id_07507,correct,code
+retrieved_image,financebench_id_07661,correct,code
+retrieved_image,financebench_id_07966,cut off,code
+retrieved_image,financebench_id_08135,correct,code
+retrieved_image,financebench_id_08286,correct,code
+retrieved_image,financebench_id_09724,refusal,code
+retrieved_image,financebench_id_10130,cut off,code
+retrieved_image,financebench_id_10285,correct,code
+retrieved_image,financebench_id_10420,cut off,code
+retrieved_image,financebench_id_10499,refusal,code
+closed_book,financebench_id_00005,correct,hand
+closed_book,financebench_id_00080,correct,hand
+closed_book,financebench_id_00206,correct,hand
+closed_book,financebench_id_00215,correct,hand
+closed_book,financebench_id_00283,wrong,hand
+closed_book,financebench_id_00288,refusal,code
+closed_book,financebench_id_00299,cut off,code
+closed_book,financebench_id_00302,cut off,code
+closed_book,financebench_id_00382,wrong,hand
+closed_book,financebench_id_00394,wrong,hand
+closed_book,financebench_id_00407,wrong,hand
+closed_book,financebench_id_00460,wrong,hand
+closed_book,financebench_id_00464,correct,hand
+closed_book,financebench_id_00494,wrong,hand
+closed_book,financebench_id_00499,cut off,code
+closed_book,financebench_id_00517,wrong,hand
+closed_book,financebench_id_00521,cut off,code
+closed_book,financebench_id_00540,wrong,hand
+closed_book,financebench_id_00552,correct,hand
+closed_book,financebench_id_00563,wrong,hand
+closed_book,financebench_id_00585,wrong,hand
+closed_book,financebench_id_00601,refusal,code
+closed_book,financebench_id_00605,wrong,hand
+closed_book,financebench_id_00606,cut off,code
+closed_book,financebench_id_00651,correct,hand
+closed_book,financebench_id_00678,cut off,code
+closed_book,financebench_id_00685,correct,hand
+closed_book,financebench_id_00702,cut off,code
+closed_book,financebench_id_00705,wrong,hand
+closed_book,financebench_id_00711,cut off,code
+closed_book,financebench_id_00720,cut off,code
+closed_book,financebench_id_00723,wrong,hand
+closed_book,financebench_id_00724,correct,hand
+closed_book,financebench_id_00735,cut off,code
+closed_book,financebench_id_00746,cut off,code
+closed_book,financebench_id_00757,correct,hand
+closed_book,financebench_id_00790,wrong,hand
+closed_book,financebench_id_00799,cut off,code
+closed_book,financebench_id_00807,correct,hand
+closed_book,financebench_id_00822,refusal,code
+closed_book,financebench_id_00839,wrong,hand
+closed_book,financebench_id_00859,wrong,hand
+closed_book,financebench_id_00882,wrong,hand
+closed_book,financebench_id_00917,wrong,hand
+closed_book,financebench_id_00941,wrong,hand
+closed_book,financebench_id_00956,correct,hand
+closed_book,financebench_id_00995,cut off,code
+closed_book,financebench_id_01009,wrong,hand
+closed_book,financebench_id_01028,wrong,hand
+closed_book,financebench_id_01077,wrong,hand
+closed_book,financebench_id_01091,correct,hand
+closed_book,financebench_id_01107,correct,hand
+closed_book,financebench_id_01148,correct,hand
+closed_book,financebench_id_01163,correct,hand
+closed_book,financebench_id_01198,wrong,hand
+closed_book,financebench_id_01244,correct,hand
+closed_book,financebench_id_01254,cut off,code
+closed_book,financebench_id_01275,cut off,code
+closed_book,financebench_id_01279,cut off,code
+closed_book,financebench_id_01290,wrong,hand
+closed_book,financebench_id_01319,correct,hand
+closed_book,financebench_id_01328,cut off,code
+closed_book,financebench_id_01346,wrong,hand
+closed_book,financebench_id_01351,wrong,hand
+closed_book,financebench_id_01476,wrong,hand
+closed_book,financebench_id_01484,wrong,hand
+closed_book,financebench_id_01487,correct,hand
+closed_book,financebench_id_01488,correct,hand
+closed_book,financebench_id_01490,refusal,code
+closed_book,financebench_id_01491,wrong,hand
+closed_book,financebench_id_01902,cut off,code
+closed_book,financebench_id_01912,wrong,hand
+closed_book,financebench_id_01928,wrong,hand
+closed_book,financebench_id_01930,refusal,code
+closed_book,financebench_id_01936,correct,hand
+closed_book,financebench_id_01964,wrong,hand
+closed_book,financebench_id_02049,refusal,code
+closed_book,financebench_id_02119,wrong,hand
+closed_book,financebench_id_02416,refusal,code
+closed_book,financebench_id_02419,wrong,hand
+closed_book,financebench_id_02608,cut off,code
+closed_book,financebench_id_03029,wrong,hand
+closed_book,financebench_id_03031,wrong,hand
+closed_book,financebench_id_03282,wrong,hand
+closed_book,financebench_id_03471,refusal,code
+closed_book,financebench_id_03473,wrong,hand
+closed_book,financebench_id_03531,wrong,hand
+closed_book,financebench_id_03620,wrong,hand
+closed_book,financebench_id_03718,wrong,hand
+closed_book,financebench_id_03838,wrong,hand
+closed_book,financebench_id_03882,wrong,hand
+closed_book,financebench_id_04080,wrong,hand
+closed_book,financebench_id_04103,cut off,code
+closed_book,financebench_id_04171,wrong,hand
+closed_book,financebench_id_04209,wrong,hand
+closed_book,financebench_id_04254,wrong,hand
+closed_book,financebench_id_04302,wrong,hand
+closed_book,financebench_id_04412,wrong,hand
+closed_book,financebench_id_04417,wrong,hand
+closed_book,financebench_id_04458,wrong,hand
+closed_book,financebench_id_04481,wrong,hand
+closed_book,financebench_id_04660,wrong,hand
+closed_book,financebench_id_04700,wrong,hand
+closed_book,financebench_id_04735,refusal,code
+closed_book,financebench_id_04784,cut off,code
+closed_book,financebench_id_04854,wrong,hand
+closed_book,financebench_id_05718,wrong,hand
+closed_book,financebench_id_05915,wrong,hand
+closed_book,financebench_id_06247,wrong,hand
+closed_book,financebench_id_06272,wrong,hand
+closed_book,financebench_id_07507,wrong,hand
+closed_book,financebench_id_07661,wrong,hand
+closed_book,financebench_id_07966,cut off,code
+closed_book,financebench_id_08135,wrong,hand
+closed_book,financebench_id_08286,correct,code
+closed_book,financebench_id_09724,wrong,hand
+closed_book,financebench_id_10130,wrong,hand
+closed_book,financebench_id_10285,wrong,hand
+closed_book,financebench_id_10420,refusal,code
+closed_book,financebench_id_10499,wrong,hand

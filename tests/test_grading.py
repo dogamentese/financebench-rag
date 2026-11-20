@@ -1,4 +1,4 @@
-from financebench_rag.grading import final_answer, is_refusal, numeric_match
+from financebench_rag.grading import code_label, final_answer, is_refusal, numeric_match
 
 
 def test_final_answer_is_read_from_the_last_line():
@@ -27,3 +27,14 @@ def test_only_an_exact_not_found_is_a_refusal():
     assert is_refusal("Not found.")
     assert not is_refusal("FY2022: none; FY2021: not found in document")
     assert not is_refusal(None)
+
+
+def test_code_label():
+    metrics = {"question_type": "metrics-generated", "answer": "$8.70"}
+    novel = {"question_type": "novel-generated", "answer": "Yes, it grew."}
+    assert code_label({"final": None}, metrics) == "cut off"
+    assert code_label({"final": "not found"}, novel) == "refusal"
+    assert code_label({"final": "8.738"}, metrics) == "correct"
+    assert code_label({"final": "3.1"}, metrics) is None
+    assert code_label({"final": "Yes"}, novel) is None
+
